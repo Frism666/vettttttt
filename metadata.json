@@ -1,0 +1,5 @@
+{
+  "name": "Arsip Peneliti Veteran AS",
+  "description": "Aplikasi pencarian informasi mendalam tentang veteran militer AS yang masih hidup, menggunakan teknologi Google Search Grounding untuk data yang akurat dan terkini.",
+  "requestFramePermissions": []
+}
